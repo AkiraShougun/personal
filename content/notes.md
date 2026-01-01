@@ -4,4 +4,6 @@ draft: false
 title: 'Blog'
 ---
 
-Coming soon
+
+
+[Dirichlet characters and Cyclotomic Fields](/static/notes/DC.pdf)

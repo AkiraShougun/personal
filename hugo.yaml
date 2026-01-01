@@ -52,8 +52,8 @@ params:
     buttons:
       - name: About
         url: about
-      - name: Blog
-        url: blog
+      - name: Notes
+        url: notes
 
   socialIcons:
     - name: github
@@ -65,9 +65,9 @@ menu:
       name: About
       url: /about/
       weight: 10
-    - identifier: blog
-      name: Blog
-      url: /blog/
+    - identifier: notes
+      name: Notes
+      url: /notes/
       weight: 20
       
 caches:
