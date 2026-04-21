@@ -4,6 +4,7 @@ draft: false
 title: 'Notes'
 ---
 
+Hi
 
 
 [Dirichlet characters and Cyclotomic Fields](/files/cyc.pdf)
